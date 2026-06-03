@@ -33,8 +33,8 @@ Web からハードウェア（組み込み）まで、つくりたいものを�
 
 ### Links
 [Portfolio](https://naofumiikeda.com) ·
-[Qiita](https://qiita.com/ikeyansaza) ·
 [X](https://x.com/ikeyansaza) ·
-[執筆記事](https://bema.jp/articles/author/ikeda_naofumi/)
+[執筆記事](https://bema.jp/articles/author/ikeda_naofumi/) ·
+[Qiita](https://qiita.com/ikeyansaza)
 
 🐟 釣り / 🏀 NBA / 🎨 横尾忠則・井上雄彦
